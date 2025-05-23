@@ -1,0 +1,15 @@
+pytorch-lightning ==1.8.4
+# torch==2.0.0
+# torchvision==0.15.0
+
+# pytorch-lightning==1.5.10
+PyYAML==6.0
+tensorboard>=2.2.0
+torch>=1.6.1
+torchsummary==1.5.1
+torchvision>=0.10.1
+scipy==1.15.3
+pytorch-ignite==0.5.2
+matplotlib==3.10.3
+
+# tensorboard --logdir path/to/logs
